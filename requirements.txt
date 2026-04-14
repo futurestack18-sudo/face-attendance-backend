@@ -1,9 +1,7 @@
 fastapi
 uvicorn
 python-multipart
-pymongo
-python-dotenv
-passlib[bcrypt]
 numpy
-opencv-contrib-python
+opencv-contrib-python-headless
+python-dotenv
 email-validator
