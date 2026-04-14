@@ -5,3 +5,4 @@ numpy
 opencv-contrib-python-headless
 python-dotenv
 email-validator
+passlib[bcrypt]
