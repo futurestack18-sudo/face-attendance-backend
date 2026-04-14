@@ -6,3 +6,4 @@ python-dotenv
 passlib[bcrypt]
 numpy
 opencv-contrib-python
+email-validator
